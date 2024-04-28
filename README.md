@@ -1,6 +1,9 @@
 # CV Gruppe 39
 Team: Azur Čaušević, Felix Ferle, Lukas Guggeis, Roman Neuroth, Sichen Zhou
 
+## Projektnote:
+**1.3** (Deutsche Skala: 1-beste, 5-schlechteste)
+
 ## Anleitung:
 1. main.m Datei öffnen und 'Run'-Taste betätigen.
 
